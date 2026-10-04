@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+workspace.sqlite3
+uploads/
+source_documents/
